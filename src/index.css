@@ -7,3 +7,14 @@
   padding: 20px;
   border-radius: 25px;
 }
+
+.head-card {
+  background-color: rgb(167, 255, 126);
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.bg-lg-gray {
+  background-color: rgb(167, 255, 126);
+}
