@@ -1,3 +1,8 @@
+header {
+  text-align: center;
+}
+
+
 .card {
   min-height: 800px;
 }
@@ -8,11 +13,8 @@
   border-radius: 25px;
 }
 
-.head-card {
-  background-color: rgb(167, 255, 126);
+.card-body {
   text-align: center;
-  border: 1px solid black;
-  border-radius: 5px;
 }
 
 .bg-lg-gray {
